@@ -6,6 +6,7 @@
 - Étud. 2 : NOM, Prénom (No étudiant)
 - Étud. 3 : NOM, Prénom (No étudiant)
 - Étud. 4 : NOM, Prénom (No étudiant)
+- Groupe TD : S2...... (par exemple S2BITD02)
 
 ## Prérequis
 * Un interpréteur Python (version >= 3.11)
